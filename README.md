@@ -18,7 +18,7 @@ This helps reduce manual effort, minimize financial risk,improve decision accura
 * Scikit-learn
 * ML Models: KNN,Logistic Regression,Naive Bayes
 * Evaluation Metrics: Precision,Recall,F1-score
-* Jupyter Notebook 
+* Development Environment: Jupyter Notebook 
 
 ---
 
