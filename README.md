@@ -1,7 +1,7 @@
-# Loan Approval System
+### Loan Approval System
 
 
-## 1. Goal
+#### 1. Goal
 
 The goal of this project was to develop an Intelligent Loan Approval System for Secure Trust Bank using Machine Learning. 
 The system is designed to predict whether a loan application should be approved or rejected based on applicant details. 
@@ -9,7 +9,7 @@ This helps reduce manual effort, minimize financial risk,improve decision accura
 
 ---
 
-## 2. Tools / Technologies Used
+#### 2. Tools / Technologies Used
 
 * Python 
 * NumPy
@@ -22,7 +22,7 @@ This helps reduce manual effort, minimize financial risk,improve decision accura
 
 ---
 
-## 3. Result
+#### 3. Result
 
 Built an end-to-end ML pipeline using KNN, Logistic Regression,and Naive Bayes for loan approval prediction,performed EDA,feature engineering, binary classification,and evaluated models using Precision,Recall,and F1-score.
 
